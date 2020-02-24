@@ -1,0 +1,4 @@
+define KFEATURE_DESCRIPTION "Enable KERNEL HANG TIMEOUT"
+define KFEATURE_COMPATIBILITY all
+
+kconf non-hardware k-hang.cfg
