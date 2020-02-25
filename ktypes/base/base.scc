@@ -5,3 +5,4 @@ define KERNEL_VERSION 4.19
 branch v4.19
 
 force kconf non-hardware base.cfg
+
